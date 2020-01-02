@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577931653985.000,
+    "dirty" : false,
+    "encoding" : "UTF8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BE5C772E",
+    "lastKnownWriteTime" : 1577935338,
+    "last_content_update" : 1577935338015,
+    "path" : "~/chinhung/develop/packages/MOFCalendar/R/get_mof_update_calendar.R",
+    "project_path" : "R/get_mof_update_calendar.R",
+    "properties" : {
+        "cursorPosition" : "43,29",
+        "scrollLine" : "21",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
