@@ -14,7 +14,7 @@ The goal of MOFCalendar is to get MOF updating date.
 You can install the MOFCalendar package from **github** with:
 
 ``` r
-devtools::install_github("MOFCalendar")
+devtools::install_github("chinhungtseng/MOFCalendar")
 ```
 
 ## Example
