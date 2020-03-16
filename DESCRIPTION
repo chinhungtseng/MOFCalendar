@@ -2,11 +2,7 @@ Package: MOFCalendar
 Type: Package
 Title: Get MOF updating date.
 Version: 0.1.0
-Authors: 
-    person(given = "Peter",
-           family = "Tseng",
-           role = c("aut", "cre"),
-           email = "chinhung@taitra.org.tw")
+Authors@R: person("ChinHung", "Tseng", email = "chinhung@taitra.org.tw", role = c("aut", "cre"))
 Description: Get MOF updating date.
 License: MIT + file LICENSE
 Encoding: UTF-8
@@ -23,5 +19,6 @@ Imports:
     fs (>= 1.3.1),
     httr (>= 1.4.1)
 Suggests: 
-    roxygen2 (>= 6.1.1)
+    roxygen2 (>= 6.1.1),
+    testthat
 RoxygenNote: 6.1.1
