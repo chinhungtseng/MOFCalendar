@@ -9,8 +9,8 @@ get_mof_update_calendar <- function(destdir = NULL) {
     stopifnot(fs::dir_exists(destdir))
   }
 
-  mof_nm <- c("\u9810\u544a\u7d71\u8a08\u8cc7\u6599\u767c\u5e03\u6642\u9593",
-              "\u521d\u6b65\u503c\u767c\u5e03\u6642\u9593")
+  mof_nm <- c("\u521d\u6b65\u503c\u767c\u5e03\u6642\u9593",
+              "\u6b63\u5f0f\u503c\u767c\u5e03\u6642\u9593")
 
   pdf_urls <- list("https://portal.sw.nat.gov.tw/APGA/GA02_link?fileName=file4",  # 1st release
                    "https://portal.sw.nat.gov.tw/APGA/GA02_link?fileName=file2")  # 2nd release
